@@ -27,5 +27,7 @@ mybatis-plus:
 
 
 #文件转存路径
+
+
 reggie:
   path: D:/images/
